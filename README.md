@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Subham Dhouni</h1>
-<h3 align="center">Computer Science Enthusiast | Seeking Opportunities to Innovate and Drive Technological Advancement</h3>
+<h3 align="center">AI Engineer | Developing Autonomous AI Systems for Real-World Impact</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 👨‍💻 All of my projects are available at [https://subham-dhouni07.github.io/Portfolio-Website/index.html](https://subham-dhouni07.github.io/Portfolio-Website/index.html)
