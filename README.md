@@ -28,7 +28,7 @@
       <!--  Langchain -->
       <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
       <!--  LangGraph -->
-        <img src="https://tse3.mm.bing.net/th/id/OIP.BTNxGnKdzHjvPWW1Xy9z-gHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+        <img src="https://www.pragmaticcoders.com/wp-content/uploads/2025/07/LangGraph-logo1-e1753355132312.jpg"
   alt="LangGraph" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <!--  Mongo DB -->
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
