@@ -34,7 +34,7 @@
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
   alt="MongoDB" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <!--  A2A -->
-            <img src="https://drive.google.com/file/d/1ULg1RMMoQzM4ooJOBj9tdRtYa_wUccMe/view?usp=drive_link" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://drive.google.com/file/d/1hrJ9FxesmsfZ-5p_oUjfehouAo6gpig2/view?usp=sharing" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
               <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg"
   alt="AWS" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
