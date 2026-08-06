@@ -22,22 +22,22 @@
   align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer">
 </a>
     <!--  ADK -->
-    <img src="https://adk.dev/assets/agent-development-kit.png" alt="ADK" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://adk.dev/assets/agent-development-kit.png" alt="ADK" width="50" height="50"/> </a> <a href="https://adk.dev/" target="_blank" rel="noreferrer"> 
     <!--  MCP -->
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="50" height="50"/> </a> <a href="https://modelcontextprotocol.info/docs/" target="_blank" rel="noreferrer"> 
       <!--  Langchain -->
-      <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="Langchain" width="50" height="50"/> </a> <a href="https://docs.langchain.com/" target="_blank" rel="noreferrer"> 
       <!--  LangGraph -->
         <img src="https://www.pragmaticcoders.com/wp-content/uploads/2025/07/LangGraph-logo1-e1753355132312.jpg"
-  alt="LangGraph" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  alt="LangGraph" alt="javascript" width="50" height="50"/> </a> <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> 
       <!--  Mongo DB -->
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
-  alt="MongoDB" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  alt="MongoDB" alt="mysql" width="50" height="50"/> </a> <a href="https://www.mongodb.com/docs/?msockid=3c13c6723eda67a214dad32d3fdc66b7" target="_blank" rel="noreferrer"> 
       <!--  A2A -->
-            <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="50" height="50"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="50" height="50"/> </a> <a href="https://a2aprotocol.ai/docs/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
               <img src="https://fastpng.com/images/file/aws-logo-yxq7etfzxye5h9jb.png"
-  alt="AWS" alt="opencv" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+  alt="AWS" alt="opencv" width="50" height="50"/> </a> <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> 
                </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dhouni07&" alt="subham-dhouni07" /></p>
