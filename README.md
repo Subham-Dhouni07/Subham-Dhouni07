@@ -26,7 +26,7 @@
     <!--  MCP -->
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <!--  Langchain -->
-      <img src="https://site.interns.school/wp-content/uploads/2023/06/langchain-learning-1.png" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
       <!--  LangGraph -->
         <img src="https://tse3.mm.bing.net/th/id/OIP.BTNxGnKdzHjvPWW1Xy9z-gHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
   alt="LangGraph" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
