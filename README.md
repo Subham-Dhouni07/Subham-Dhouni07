@@ -11,33 +11,33 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subham-dhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-dhouni" height="30" width="40" /></a>
-<a href="https://instagram.com/subham_dhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subham_dhouni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhamdhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhamdhouni" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhounisubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhounisubham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subham-dhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-dhouni" height="30" width="50" /></a>
+<a href="https://instagram.com/subham_dhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subham_dhouni" height="30" width="50" /></a>
+<a href="https://www.leetcode.com/subhamdhouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhamdhouni" height="30" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dhounisubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhounisubham" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p 
-  align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+  align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer">
 </a>
     <!--  ADK -->
-    <img src="https://drive.google.com/file/d/1jTPQKRMgWjuhaU2ciEs7PmrftPNX73Gw/view?usp=drive_link" alt="ADK" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://drive.google.com/file/d/1jTPQKRMgWjuhaU2ciEs7PmrftPNX73Gw/view?usp=drive_link" alt="ADK" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <!--  MCP -->
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <!--  Langchain -->
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langchain/wordmark-dark.svg" alt="Langchain" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langchain/wordmark-dark.svg" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
       <!--  LangGraph -->
         <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg"
-  alt="LangGraph" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  alt="LangGraph" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <!--  Mongo DB -->
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
-  alt="MongoDB" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  alt="MongoDB" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <!--  A2A -->
-            <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="80" height="80"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
               <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg"
-  alt="AWS" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+  alt="AWS" alt="opencv" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dhouni07&" alt="subham-dhouni07" /></p>
