@@ -34,9 +34,9 @@
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
   alt="MongoDB" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <!--  A2A -->
-            <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="80" height="80"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="50" height="50"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
-              <img src="https://www.liblogo.com/img-logo/aw7519ae42-aws-logo-amazon-web-services-logo-white-.png"
+              <img src="https://fastpng.com/images/file/aws-logo-yxq7etfzxye5h9jb.png"
   alt="AWS" alt="opencv" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                </a> </p>
 
