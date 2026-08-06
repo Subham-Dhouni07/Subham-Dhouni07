@@ -19,25 +19,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p 
-  align="left"> <a href="_blank" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-    <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/white" alt="Model Context Protocol" width="40" height="40"/>
+  align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 </a>
     <!--  ADK -->
-    <img src="[https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg](https://drive.google.com/file/d/1jTPQKRMgWjuhaU2ciEs7PmrftPNX73Gw/view?usp=sharing)" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://drive.google.com/file/d/1jTPQKRMgWjuhaU2ciEs7PmrftPNX73Gw/view?usp=drive_link" alt="ADK" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <!--  MCP -->
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <!--  Langchain -->
-      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langchain/wordmark-dark.svg)" alt="Langchain" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langchain/wordmark-dark.svg" alt="Langchain" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
       <!--  LangGraph -->
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg"
-  alt="LangGraph)" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg"
+  alt="LangGraph" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <!--  Mongo DB -->
-          <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg)" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
+  alt="MongoDB" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <!--  A2A -->
-            <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://drive.google.com/file/d/1ULg1RMMoQzM4ooJOBj9tdRtYa_wUccMe/view?usp=sharing)" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://drive.google.com/file/d/1ULg1RMMoQzM4ooJOBj9tdRtYa_wUccMe/view?usp=drive_link" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
-              <img src="[https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg](https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg)" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+              <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg"
+  alt="AWS" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dhouni07&" alt="subham-dhouni07" /></p>
