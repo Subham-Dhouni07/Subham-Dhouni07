@@ -34,10 +34,10 @@
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
   alt="MongoDB" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <!--  A2A -->
-            <img src="https://drive.google.com/file/d/1hrJ9FxesmsfZ-5p_oUjfehouAo6gpig2/view?usp=sharing" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.bing.com/images/search?view=detailV2&ccid=C6t3y6NY&id=A2F0F9120B231397766B0541B3873E373A85EB5C&thid=OIP.C6t3y6NYWxaRg5hvN5rmqAHaHa&mediaurl=https%3a%2f%2fstatic.agilitycms.com%2fa2a-protocol.png%3fformat%3dauto&exph=1024&expw=1024&q=A2A+protocol+icon+image+png&FORM=IRPRST&ck=C0F878EE11C70F37270337AAD024C78B&selectedIndex=16&itb=0" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
               <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg"
   alt="AWS" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+               </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dhouni07&" alt="subham-dhouni07" /></p>
