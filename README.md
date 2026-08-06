@@ -22,7 +22,7 @@
   align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer">
 </a>
     <!--  ADK -->
-    <img src="https://drive.google.com/file/d/1jTPQKRMgWjuhaU2ciEs7PmrftPNX73Gw/view?usp=drive_link" alt="ADK" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://adk.dev/assets/agent-development-kit.png" alt="ADK" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <!--  MCP -->
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <!--  Langchain -->
