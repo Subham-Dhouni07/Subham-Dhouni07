@@ -26,9 +26,9 @@
     <!--  MCP -->
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="MCP" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <!--  Langchain -->
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langchain/wordmark-dark.svg" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://site.interns.school/wp-content/uploads/2023/06/langchain-learning-1.png" alt="Langchain" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> 
       <!--  LangGraph -->
-        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg"
+        <img src="https://tse3.mm.bing.net/th/id/OIP.BTNxGnKdzHjvPWW1Xy9z-gHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
   alt="LangGraph" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <!--  Mongo DB -->
           <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg"
@@ -36,7 +36,7 @@
       <!--  A2A -->
             <img src="https://static.agilitycms.com/a2a-protocol.png?format=auto" alt="A2A" width="80" height="80"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
       <!--  AWS -->
-              <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg"
+              <img src="https://www.liblogo.com/img-logo/aw7519ae42-aws-logo-amazon-web-services-logo-white-.png"
   alt="AWS" alt="opencv" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                </a> </p>
 
